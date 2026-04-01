@@ -1,0 +1,3 @@
+#print("line 1",end="\n")
+print("line 1",end=" ") #no new line...
+print("line 2")

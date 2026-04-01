@@ -1,0 +1,37 @@
+variable:
+10;
+int a = 10
+
+programming lang:
+staticlly typed programming lang: when we declare a variable have to provide data type
+dynamically typed programming:when we declare a variable  not to provide data type
+
+
+
+#single line comment #
+
+''' '''
+
+:OPERATORS:
+OPERATORS are the symbols which can use to perfrom operations bw operands
+
+3 type of OPERATORS
+unery op: it requires only 1 op
+binery op:it requires min 2 operands
+tern op:it requires min 3 operands ? :
+------------------------------------------
+
+1)arithm: +,-,*,/,%,**,//[floor op]
+2)logical op: and or not
+3)comp op:>,<,==....
+4)asignmentop: =, arh=
+5)membership op = in ,not int
+6)identity op = is ,is not
+
+python does not have unery op
+
+
+decisoin making statents:
+if else
+switch case (match case)
+loops
