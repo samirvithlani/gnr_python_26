@@ -35,3 +35,11 @@ decisoin making statents:
 if else
 switch case (match case)
 loops
+
+type of loops:
+entry conrol loops: for while
+
+*exit control loop: do while
+
+for:
+range()
