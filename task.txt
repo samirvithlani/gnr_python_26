@@ -1,0 +1,11 @@
+eg:
+name = "raj"
+a ->index
+
+get name fomr user :raj, india
+get search char from user:a ,i 
+output -->1 -->index  ->0
+
+2) hi this is Ahmedabad
+count no of space
+count no of words
