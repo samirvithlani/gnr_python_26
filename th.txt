@@ -59,3 +59,23 @@ string is iterable [loop]:
 string is supscriptable index-->: 
 string is immutable :
 
+
+Pythond ds:
+
+list
+tuple
+set
+dict
+
+
+
+list: list is collection of elements
+1)list id dynamic
+2)list is hetrogenious
+3)list allows duplicate elements
+4)list is mutable
+5)list is iterable
+6)list is supscriptable
+7)list stores data in dynamic array [index]
+8)data type of list is list
+9)we can use [] to declare list
