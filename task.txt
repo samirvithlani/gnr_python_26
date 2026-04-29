@@ -9,3 +9,11 @@ output -->1 -->index  ->0
 2) hi this is Ahmedabad
 count no of space
 count no of words
+
+
+
+please enter name :
+amit
+raj
+,,,
+exit
