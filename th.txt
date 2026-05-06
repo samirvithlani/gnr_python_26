@@ -79,3 +79,25 @@ list: list is collection of elements
 7)list stores data in dynamic array [index]
 8)data type of list is list
 9)we can use [] to declare list
+
+tuple
+
+1)tuple is dynamic
+2)tuple is hetrogenious
+3)tuple allows duplicate elements
+4)"" is immutable
+5)""" is iterable
+6)"" is supscriptable
+7)"" stores data in dynamic array [index]
+8)"" type of tuple is tuple
+9)we can use () to declare tuple
+
+dictonary:
+1)dict dynamic
+2)dict is hetrogenious
+3)dict stores data in key:value pair
+4)dict key is unique value can be duplicate
+5)dict is iterable
+5)dict is supscriptable
+6)dict stores data  {}
+7)data type of dict is dict

@@ -17,3 +17,11 @@ amit
 raj
 ,,,
 exit
+
+data = [1, [2, [3, 4], 5], 6]
+flat
+[1,2,3,4,5,6]
+hint:check type of elment
+
+tuple:
+
