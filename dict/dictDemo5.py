@@ -12,3 +12,8 @@ fruits = {"Names":["apple","banana","kiwi"],"price":[100,40,120]}
 #apple 100
 fruits = {"Names":["apple","banana","kiwi"],"price":[100,40,120],"qty":[100,1000,300]} 
 #op:apple = 100*100 = 10,000   
+
+for i, j in fruits.items():
+
+    total = j["price"] * j["qty"]
+    print(f"{i} = {total}")
