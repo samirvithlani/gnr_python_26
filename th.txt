@@ -101,3 +101,17 @@ dictonary:
 5)dict is supscriptable
 6)dict stores data  {}
 7)data type of dict is dict
+
+
+
+list: list is collection of elements
+1)set id dynamic
+2)set is hetrogenious
+3)set does not allows duplicate elements
+4)set is mutable
+5)set is iterable
+6)set  is not supscriptable [hashing]
+
+8)data type of set is set
+9)we can use {} to declare set
+10)set is not ordered
