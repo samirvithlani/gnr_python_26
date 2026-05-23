@@ -115,3 +115,28 @@ list: list is collection of elements
 8)data type of set is set
 9)we can use {} to declare set
 10)set is not ordered
+
+
+
+void int float
+int sum
+
+def keyword
+def funname():
+    body
+
+smile --> 100 line --->10000 places
+     --> 101
+
+type of function:
+udf  :
+pre deinfine :cout,cap,input,pop,reverse,sort,index,title,print,len
+
+4 type:
+wr wa
+wr woa
+wor wa
+wor woa
+
+
+('vedant',) 
