@@ -140,3 +140,13 @@ wor woa
 
 
 ('vedant',) 
+
+emaplyee(cond)
+user(cond)
+student(cond)
+
+query(func):
+
+
+choice = "user"
+
