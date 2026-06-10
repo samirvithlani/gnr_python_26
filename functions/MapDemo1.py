@@ -40,3 +40,16 @@ data = [121,23,33,678,99,100,111]
 
 palindromenums = list(map(lambda x:"palindrome" if str(x) ==str(x)[::-1] else "not",data))
 print(palindromenums)
+
+
+
+prices = {'apple': 1.00, 'banana': 0.50, 'orange': 0.75}
+
+#[(apple,1.00),(),()]
+#x = (apple,1.00)
+price1 = dict(map(lambda x:[x[0],x[1]*1.1],prices.items()))
+print(price1)
+
+prices = {'apple': 1.00, 'banana': 0.50, 'orange': 0.75}
+
+

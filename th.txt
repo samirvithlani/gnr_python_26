@@ -150,3 +150,7 @@ query(func):
 
 choice = "user"
 
+decorators ar pure python function which will accept func as argument
+it will return inner funnction object
+use of decorator is to change behaviour of funciton without changing code
+decorator will denoted by @
