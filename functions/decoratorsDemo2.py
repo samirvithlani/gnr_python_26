@@ -16,5 +16,5 @@ def div(no1,no2):
     print("div called ",no1/no2)
 
 
-div(10,0)    
+div(10,20)    
     
