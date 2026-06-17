@@ -161,3 +161,26 @@ decorator will denoted by @
 maill sent to user 1 to 100
                     101 200
 
+FILES:
+file is permenent storage:
+
+open:
+read / write
+close
+
+path:
+file store:
+realtive path
+abs path: d:/foldername/foldername/filename
+
+D:\projects\GNR_python_2026\basics\basic1.py
+basics\basic1.py
+
+D:\projects\GNR_python_2026\th.txt
+th.txt
+
+./ : current dire..
+../ : parent dirc
+../../ parent to parent
+
+
