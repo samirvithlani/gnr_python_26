@@ -182,5 +182,3 @@ th.txt
 ./ : current dire..
 ../ : parent dirc
 ../../ parent to parent
-
-

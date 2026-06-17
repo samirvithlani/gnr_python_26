@@ -28,3 +28,15 @@ file.write(f"id = {empid} - name = {empname}")
 file.close()
 
 
+#dict:
+data = {"name":"raj","age":23,"salary":34000,"city":"ahmedabad"}
+#name = raj
+#age =
+
+
+# students =[......]
+# marks = [.......]
+
+
+# file:
+# raj  90    
