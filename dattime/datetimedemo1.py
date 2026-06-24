@@ -33,3 +33,10 @@ print("hour",time.hour)
 print(time.minute)
 print(time.second)
 print(time.microsecond)
+
+
+today =dt.date.today()
+mybd=dt.date(2010,2,14)
+
+diff = today-mybd
+print("days",diff.days)
